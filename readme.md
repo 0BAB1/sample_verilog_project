@@ -3,13 +3,14 @@
 Only open source tools, this is a personal template for when I do a project.
 
 To run the tests using :
+
 - Verilator simulator
 - Cocotb testbench
 - System verilog for the dut
 
 run :
 
-```
+```bash
 cd tb
 make
 ```
